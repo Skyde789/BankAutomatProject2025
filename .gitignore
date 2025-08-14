@@ -1,0 +1,13 @@
+*.user
+*.pro.user 
+*.env
+*.stash
+
+backend/node_modules/ 
+bank-automat/build/ 
+RestAPIDLL/build/
+RestAPIDLL/debug/
+RestAPIDLL/release/
+RestAPIDLL/.qtc_clangd/
+RFID_DLL/build/
+
