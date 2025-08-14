@@ -67,10 +67,10 @@ npm start
 
 ## Authors
 
--Sami Laihiainen
+-Sami Laihiainen https://github.com/Skyde789
 
--Aleksi Vainikka
+-Aleksi Vainikka https://github.com/Kurkkuu
 
--Niko Laine
+-Niko Laine https://github.com/JylleRo
 
--Oona Kujala
+-Oona Kujala https://github.com/oonaku
